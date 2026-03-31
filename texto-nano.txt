@@ -1,0 +1,5 @@
+Crear un archivo dentro de nano
+
+Por defecto cuando ejecutamos nano <nombre_de_archivo> este lo crea automáticamente dentro del directorio donde estémos
+
+
